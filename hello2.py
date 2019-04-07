@@ -1,1 +1,3 @@
-print("Hello 2!")
+
+for _ in range(5):
+    print("Hello 2!")
